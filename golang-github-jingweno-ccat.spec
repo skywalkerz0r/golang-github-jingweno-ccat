@@ -3,7 +3,6 @@
 # https://github.com/jingweno/ccat
 %global goipath         github.com/jingweno/ccat
 Version:                1.1.0
-%global commit          7cf6d903b93052e24cb6c1c4b02a324ead744fa5
 
 %gometa
 
